@@ -1,0 +1,11 @@
+# 全局配置模板
+# universe:
+#   name: # 系统名称
+#   version: # 版本号
+#   timezone: # 时区设置
+#   language: # 默认语言
+#   features:
+#     translation: # 翻译功能开关
+#     hot_reload: # 热加载开关
+#     debug_mode: # 调试模式
+# watchlist: ["NVDA","AMD","AVGO","SMCI","INTC","MRVL","TSLA","PLTR","OPEN","OCTO"]

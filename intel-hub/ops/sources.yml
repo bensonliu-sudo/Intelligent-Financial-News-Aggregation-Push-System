@@ -1,0 +1,12 @@
+# 数据源配置模板
+# sources:
+#   - name: # 数据源名称
+#     url: # 数据源URL
+#     type: # 类型（rss/json/api）
+#     parser: # 使用的解析器
+#     interval: # 采集间隔（秒）
+#     enabled: # 是否启用
+#   - name: # 另一个数据源
+#     url:
+#     type:
+#     parser:

@@ -1,0 +1,10 @@
+# 主题分类配置模板
+# topics:
+#   - name: # 主题名称
+#     keywords: # 相关关键词列表
+#       -
+#     weight: # 权重
+#   - name: # 另一个主题
+#     keywords:
+#       -
+#     weight:
