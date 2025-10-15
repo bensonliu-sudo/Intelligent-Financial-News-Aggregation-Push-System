@@ -24,7 +24,8 @@
 ## 🎯 Overview
 
 Intel Hub automates the discovery and delivery of relevant financial events from diverse sources. It focuses on fast, lightweight, and intelligent aggregation of market signals across equities, crypto, IPOs, and macroeconomics.
-
+> Note: Source code comments are in Chinese for clarity and authenticity.  
+> The project is fully self-developed and readable regardless of language.
 ### Core Pipeline
 
 ```mermaid
