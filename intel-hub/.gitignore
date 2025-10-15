@@ -1,0 +1,30 @@
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual env & local env files
+venv/
+.env
+
+# Databases & logs
+*.db
+*.db-shm
+*.db-wal
+*.log
+
+# Editors
+.DS_Store
+.vscode/
+.idea/
+
+# Real configs (keep only *_example.yml in git)
+ops/config.yml
+ops/sources.yml
+ops/keywords.yml
+ops/topics.yml
+ops/universe.yml
+
+# allow templates
+!ops/*_example.yml
